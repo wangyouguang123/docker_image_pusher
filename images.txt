@@ -1,1 +1,3 @@
 confluentinc/cp-server-connect:7.6.2
+confluentinc/cp-kafka-rest:7.6.2
+confluentinc/cp-ksqldb-server:7.6.2
