@@ -1,1 +1,1 @@
-blackducksoftware/blackduck-imageinspector-ubuntu:5.2.2
+blackducksoftware/blackduck-imageinspector-alpine:5.2.2
