@@ -1,1 +1,1 @@
-uhligit/ansible:latest
+ansible/ansible:latest
