@@ -1,1 +1,1 @@
-codespaces/ansible-control:2.10.5
+uhligit/ansible:latest
