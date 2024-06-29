@@ -1,1 +1,1 @@
-blackducksoftware/blackduck-imageinspector-alpine:5.2.2
+codespaces/ansible-control:2.10.5
