@@ -1,1 +1,1 @@
-ansible/ansible:latest
+grafana/loki:2.6.1
