@@ -1,1 +1,1 @@
-grafana/loki:2.6.1
+traefik:v3.1.0
