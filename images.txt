@@ -1,1 +1,1 @@
-traefik:v3.1.0
+blackducksoftware/blackduck-imageinspector-centos:5.2.2
