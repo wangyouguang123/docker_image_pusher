@@ -1,1 +1,1 @@
-flink:1.17
+flink-sql-runner-example:latest
